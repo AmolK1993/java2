@@ -18,6 +18,9 @@ class Parent
    {
   	child b=new child();
   	b.m1();
+	b1,m1();
+	b2.m2();
+	b3.m4();
 
   }
 }
